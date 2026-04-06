@@ -170,7 +170,10 @@
       {% endif %}
       {% if author.zhihu %}
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
-      {% endif %}      
+      {% endif %}
+      {% if author.redbook %}
+        <li><a href="{{ author.redbook }}" aria-label="小红书 (Xiaohongshu)"><i class="fas fa-fw fa-book icon-pad-right" aria-hidden="true"></i>小红书</a></li>
+      {% endif %}
     </ul>
   </div>
 </div>
