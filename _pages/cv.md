@@ -48,9 +48,25 @@ redirect_from:
 
 发表论文 / Publications
 ======
+{% if site.publication_category %}
+  {% for category in site.publication_category %}
+    {% assign title_shown = false %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}{% continue %}{% endif %}
+      {% unless title_shown %}
+        <h3>{{ category[1].title }}</h3>
+        <ul>
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single-cv.html %}
+    {% endfor %}
+    {% if title_shown %}</ul>{% endif %}
+  {% endfor %}
+{% else %}
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+{% endif %}
 
 荣誉与奖项 / Honors & Awards
 ======
