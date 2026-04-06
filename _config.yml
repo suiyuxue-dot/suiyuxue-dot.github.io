@@ -88,11 +88,11 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   published:
-    title: '已发表论文'
+    title: '已发表 (Published)'
   accepted:
-    title: '已接收论文'
+    title: '已接收（待发表）(Accepted, Not Yet Published)'
   submitted:
-    title: '已投稿论文'
+    title: '已投稿（审稿中）(Submitted, Under Review)'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
