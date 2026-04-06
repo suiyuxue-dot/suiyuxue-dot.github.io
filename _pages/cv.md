@@ -49,24 +49,26 @@ redirect_from:
 
 发表论文 / Publications
 ======
+
 {% if site.publication_category %}
   {% for category in site.publication_category %}
     {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}{% continue %}{% endif %}
-      {% unless title_shown %}
-        # <h3>{{ category[1].title }}</h3>
-        # <ul>
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single-cv.html %}
-    {% endfor %}
-    {% if title_shown %}</ul>{% endif %}
+    {% assign category_posts = site.publications | where: "category", category[0] | reverse %}
+    {% if category_posts.size > 0 %}
+      <h3>{{ category[1].title }}</h3>
+      <ul>
+        {% for post in category_posts %}
+          {% include archive-single-cv.html %}
+        {% endfor %}
+      </ul>
+    {% endif %}
   {% endfor %}
 {% else %}
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %} # </ul>
+  <ul>
+    {% for post in site.publications reversed %}
+      {% include archive-single-cv.html %}
+    {% endfor %}
+  </ul>
 {% endif %}
 
 荣誉与奖项 / Honors & Awards
