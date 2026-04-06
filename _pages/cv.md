@@ -1,13 +1,28 @@
 ---
 layout: archive
-title: "简历 / CV"
-permalink: /cv/
+title: "沙玉馨 (Yuxin Sha)"
+permalink: /
 author_profile: true
 redirect_from:
+  - /cv/
   - /resume
+  - /about/
+  - /about.html
 ---
 
 {% include base_path %}
+
+你好！我是**沙玉馨（Yuxin Sha）**，目前就读于上海交通大学电气工程学院电气工程及其自动化专业（2022–2026），即将于2026年9月升入上海交通大学集成电路学院攻读信息与通信工程专业研究生（2026–2029）。
+
+我的研究兴趣主要集中在：
+- **无线能量传输系统（Wireless Power Transfer）**
+- **可穿戴设备（Wearable Devices）**
+- **超表面（Reconfigurable Intelligent Surface, RIS）**
+- **多智能体系统（Multi-Agent Systems）**
+
+欢迎通过邮件或小红书与我聊天、交流！😊
+
+---
 
 教育经历 / Education
 ======
