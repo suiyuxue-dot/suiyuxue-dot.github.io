@@ -50,26 +50,19 @@ redirect_from:
 发表论文 / Publications
 ======
 
+{::nomarkdown}
 {% if site.publication_category %}
   {% for category in site.publication_category %}
-    {% assign title_shown = false %}
     {% assign category_posts = site.publications | where: "category", category[0] | reverse %}
     {% if category_posts.size > 0 %}
-      <h3>{{ category[1].title }}</h3>
-      <ul>
-        {% for post in category_posts %}
-          {% include archive-single-cv.html %}
-        {% endfor %}
-      </ul>
+<h3>{{ category[1].title }}</h3>
+<ul>{% for post in category_posts %}{% include archive-single-cv.html %}{% endfor %}</ul>
     {% endif %}
   {% endfor %}
 {% else %}
-  <ul>
-    {% for post in site.publications reversed %}
-      {% include archive-single-cv.html %}
-    {% endfor %}
-  </ul>
+<ul>{% for post in site.publications reversed %}{% include archive-single-cv.html %}{% endfor %}</ul>
 {% endif %}
+{:/nomarkdown}
 
 荣誉与奖项 / Honors & Awards
 ======
