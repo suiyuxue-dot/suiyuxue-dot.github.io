@@ -55,8 +55,8 @@ redirect_from:
     {% for post in site.publications reversed %}
       {% if post.category != category[0] %}{% continue %}{% endif %}
       {% unless title_shown %}
-        <h3>{{ category[1].title }}</h3>
-        <ul>
+        # <h3>{{ category[1].title }}</h3>
+        # <ul>
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single-cv.html %}
@@ -66,7 +66,7 @@ redirect_from:
 {% else %}
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %} # </ul>
 {% endif %}
 
 荣誉与奖项 / Honors & Awards
