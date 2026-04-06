@@ -1,7 +1,7 @@
 ---
 title: "Wearable Electromagnetic Halbach Array for Wirelessly Charging Implantable Biomedical Devices"
 collection: publications
-category: conferences
+category: published
 permalink: /publication/2024-wearable-halbach-array
 excerpt: 'A wearable electromagnetic Halbach array structure for wirelessly charging implantable biomedical devices.'
 date: 2024-06-01
