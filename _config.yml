@@ -27,12 +27,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yuxin Sha (沙玉馨)"
-  # pronouns         : # example: "she/her"  
-  bio              : "上海交通大学电气工程本科（2026届），集成电路学院信息与通信工程直博（2026-2029）。研究方向：无线能量传输、可穿戴设备、超表面（RIS）、多智能体系统。曾获首届'上证杯'上海大学生创新创业大赛复赛一等奖、中国国际大学生创新大赛上海赛区金奖、全国数学建模省三等奖等。爱好武术（上海市大学生武术比赛女子棍术第五/刀术第六）、足球、空手道（黑带）。ENFJ。"
+  pronouns         : "she/her"  
+  bio              : "hello~" #"上海交通大学电气工程本科（2026届），集成电路学院信息与通信工程直博（2026-2029）。研究方向：无线能量传输、可穿戴设备、超表面（RIS）、多智能体系统。曾获首届'上证杯'上海大学生创新创业大赛复赛一等奖、中国国际大学生创新大赛上海赛区金奖、全国数学建模省三等奖等。爱好武术（上海市大学生武术比赛女子棍术第五/刀术第六）、足球、空手道（黑带）。ENFJ。"
   location         : "上海, 中国"
   employer         : "上海交通大学"
   # uri              : # URL
-  # email            : "none@example.org" 
+  email            : "cindysha@sjtu.edu.cn" 
 
   # Academic websites
   # academia         : # URL
@@ -83,6 +83,7 @@ author:
   # xing             : # Username
   # youtube          : # Username
   # zhihu            : # Username
+  redbook            : "https://xhslink.com/m/1kGIbkr8i0F"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
