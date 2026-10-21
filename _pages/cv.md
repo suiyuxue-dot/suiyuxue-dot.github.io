@@ -24,11 +24,24 @@ redirect_from:
 
 ---
 
-教育经历 / Education
+Education
 ======
-* **上海交通大学** 集成电路学院，信息与通信工程专业，硕士研究生（2026.09 – 2029.06）
-* **上海交通大学** 电气工程学院，电气工程及其自动化专业，本科（2022.09 – 2026.06）
-* **上海七宝中学**（2019.09 – 2022.07）
+* **M.S. Student, School of Integrated Circuit, Shanghai Jiao Tong University** | 2026-09 — Present  
+  Research interests: RF-aware LLM / Multi-Agent System for wireless prototyping / Wireless Power Transfer
+* **B.Eng., School of Electrical Engineering, Shanghai Jiao Tong University** | 2022-09 — 2026-06
+* **Shanghai Qibao High School** | 2019-09 — 2022-07
+
+Industry Experience
+======
+* **Tencent IEG, Public Technology Department** | Algorithm Research Intern | May 2026 — Sep 2026  
+  Worked on end-to-end vertical-domain LLM-Agent development (architecture, skill implementation, model training, online deployment). Built evaluation-type and generative-type agents for game content creation, supporting DNF design document, *Honor of Kings* seasonal & anniversary narrative business.  
+  Designed human-agent co-evolution evaluation workflow, built professionally-annotated domain dataset and trained dedicated evaluation model for iterative content quality improvement.
+
+Research Interests
+======
+* RF-aware Large Language Model & Multi-Agent Systems for autonomous wireless prototyping
+* Agent-assisted authoring, interactive narrative generation and human-agent evaluation pipeline
+* Wireless Power Transfer, backscatter / ambient IoT, battery-free metasurface hardware system
 
 基本信息 / Personal Info
 ======
@@ -47,22 +60,27 @@ redirect_from:
 **导师：田晓华（上海交通大学）**  
 研究方向：超表面（RIS）、无线能量传输、天线设计、Agent、RAG、多模态
 
-发表论文 / Publications
+Publications
 ======
+### Under Review / Submitted
+1. **DeepRadio: A Human-Agent Workspace for Physical Radio Development** — Yuxin Sha*, ... **(2nd author)** | Submitted to CHI  
+   Human-agent collaborative workspace for SDR & physical-layer radio development.
+2. **NarrativeSteward: Coordinating Delegation, Guidance, and Verification in AI-Assisted Interactive Narrative Authoring** — ..., Yuxin Sha **(3rd author)** | Submitted to CHI  
+   Agent-aided interactive narrative authoring system with human guidance and execution verification.
+3. **RadioMaster: Multi-Agent System for Autonomous Radio Signal Generation** — ..., Yuxin Sha **(2nd author)** | Submitted to JCIN  
+   Multi-agent framework translating high-level intent to over-the-air radio emission, with knowledge grounding & closed-loop physical-layer validation. [arXiv:2606.01862](https://arxiv.org/abs/2606.01862)
+4. **Enabling Agile Ambient IoT Networking via a Parameterized Hybrid Radio** — ..., Yuxin Sha **(4th author)** | Submitted to TON  
+   Janus: Configurable active-passive hybrid radio platform for ambient batteryless IoT networking.
+5. **MetaB: Battery-free Metasurfaces with Ultra-low-power for Mobile Devices** — ..., Yuxin Sha **(3rd author)** | Submitted to TOM  
+   Ultra-low-power battery-free metasurface hardware for mobile-device scenario.
+6. **Beyond Domain-Specific Tuning: Native RF-Modality LLM for Electromagnetic Awareness** — ..., Yuxin Sha **(4th author)** | Submitted to MobiCom  
+   Native RF-modality large model for electromagnetic perception and wireless reasoning.
 
-{::nomarkdown}
-{% if site.publication_category %}
-  {% for category in site.publication_category %}
-    {% assign category_posts = site.publications | where: "category", category[0] | reverse %}
-    {% if category_posts.size > 0 %}
-<h3>{{ category[1].title }}</h3>
-<ul>{% for post in category_posts %}{% include archive-single-cv.html %}{% endfor %}</ul>
-    {% endif %}
-  {% endfor %}
-{% else %}
-<ul>{% for post in site.publications reversed %}{% include archive-single-cv.html %}{% endfor %}</ul>
-{% endif %}
-{:/nomarkdown}
+### Published
+1. **NW-EHA: A Misalignment-Tolerant Neck-Worn Electromagnetic Halbach Array Structure for Charging Implantable Devices** — Yuxin Sha, ... **(1st author)** | WPTCE 2026  
+   Wearable neck-mount Halbach-array coil for misalignment-robust implant-device wireless charging.
+2. **Toward Beamform Charging Without Chicken-or-Egg Dilemma** — ..., Yuxin Sha **(3rd author)** | TOM  
+   Beamforming wireless power transfer resolving the classic “chicken-egg” dependency dilemma.
 
 荣誉与奖项 / Honors & Awards
 ======
@@ -89,4 +107,3 @@ redirect_from:
 * **游戏**：恋与深空、星露谷物语、王者荣耀
 * **其他**：旅游、写作、阅读、拍照
 * **MBTI**：ENFJ
-
