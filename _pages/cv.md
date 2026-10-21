@@ -81,6 +81,8 @@ Publications
    Wearable neck-mount Halbach-array coil for misalignment-robust implant-device wireless charging.
 2. **Toward Beamform Charging Without Chicken-or-Egg Dilemma** — ..., Yuxin Sha **(3rd author)** | TOM  
    Beamforming wireless power transfer resolving the classic “chicken-egg” dependency dilemma.
+3. **Wearable Electromagnetic Halbach Array for Wirelessly Charging Implantable Biomedical Devices** — X. Luo, R. Gou, Y. Sha, D. Zhu, S. Yong and S. Beeby | WPTCE 2024  
+   X. Luo, R. Gou, Y. Sha, D. Zhu, S. Yong and S. Beeby, "Wearable Electromagnetic Halbach Array for Wirelessly Charging Implantable Biomedical Devices," 2024 IEEE Wireless Power Technology Conference and Expo (WPTCE), Kyoto, Japan, 2024, pp. 734–738, doi: 10.1109/WPTCE59894.2024.10557437. (Published)
 
 荣誉与奖项 / Honors & Awards
 ======
