@@ -19,16 +19,19 @@ Education
   Research interests: RF-aware LLM / Multi-Agent System for wireless prototyping / Wireless Power Transfer
 * **B.Eng., School of Electrical Engineering, Shanghai Jiao Tong University** | 2022-09 — 2026-06
 * **Shanghai Qibao High School** | 2019-09 — 2022-07
+---
 Industry Experience
 ======
 * **Tencent IEG, Public Technology Department** | Algorithm Research Intern | May 2026 — Sep 2026  
   Worked on end-to-end vertical-domain LLM-Agent development (architecture, skill implementation, model training, online deployment). Built evaluation-type and generative-type agents for game content creation, supporting DNF design document, *Honor of Kings* seasonal & anniversary narrative business.  
   Designed human-agent co-evolution evaluation workflow, built professionally-annotated domain dataset and trained dedicated evaluation model for iterative content quality improvement.
+---
 Research Interests
 ======
 * RF-aware Large Language Model & Multi-Agent Systems for autonomous wireless prototyping
 * Agent-assisted authoring, interactive narrative generation and human-agent evaluation pipeline
 * Wireless Power Transfer, backscatter / ambient IoT, battery-free metasurface hardware system
+---
 Personal Info
 ======
 * Date of Birth: April 2, 2004
@@ -36,12 +39,14 @@ Personal Info
 * Hometown: Xinyi, Xuzhou, Jiangsu Province
 * ORCID: [0009-0004-7753-7022](https://orcid.org/0009-0004-7753-7022)
 * Xiaohongshu ID: 3899648340
+---
 Research
 ======
 **Advisor: Dibin Zhu (Shanghai Jiao Tong University)**  
 Research interests: Wireless Power Transfer systems, wearable devices
 **Advisor: Xiaohua Tian (Shanghai Jiao Tong University)**  
 Research interests: Reconfigurable Intelligent Surfaces (RIS), Wireless Power Transfer, antenna design, Agent, RAG, multimodal learning
+---
 Publications
 ======
 ### Under Review / Submitted
@@ -58,6 +63,7 @@ Publications
    X. Luo, R. Gou, Y. Sha, D. Zhu, S. Yong and S. Beeby, "Wearable Electromagnetic Halbach Array for Wirelessly Charging Implantable Biomedical Devices," 2024 IEEE Wireless Power Technology Conference and Expo (WPTCE), Kyoto, Japan, 2024, pp. 734–738, doi: 10.1109/WPTCE59894.2024.10557437.
 3. **Toward Beamform Charging Without Chicken-or-Egg Dilemma** — L. Zhong, T. Qiang, Y. Sha, Z. Yang, J. Lei, W. Li, F. Zhu, J. Sun, B. Wang, X. Tian **(3rd author)**  
    L. Zhong, T. Qiang, Y. Sha, Z. Yang, J. Lei, W. Li, F. Zhu, J. Sun, B. Wang and X. Tian, "Toward Beamform Charging Without Chicken-or-Egg Dilemma," IEEE Transactions on Mobile Computing (TOM), 2026.
+---
 Honors & Awards
 ======
 * First Prize, Semi-final, AI & FinTech Track, 1st SSE Cup Shanghai Undergraduate Innovation and Entrepreneurship Competition
@@ -67,6 +73,7 @@ Honors & Awards
 * Second / Third Prize, SJTU UAV & Robot Master Competition
 * 5th Place in Women’s Cudgel, 6th Place in Women’s Broadsword, Shanghai Wushu Competition
 * Finalist (15 teams worldwide, 1st author), 2026 WPTCE Student Competition
+---
 Volunteering
 ======
 * Volunteer, Shanghai Science and Technology Festival
@@ -75,6 +82,7 @@ Volunteering
 * Volunteer, Lakeside International Music Festival, Minhang Culture and Arts Festival
 * Volunteer, Minhang Mid-Autumn Festival Chinese Carnival
 * Volunteer, Shanghai Marathon
+---
 Interests
 ======
 * **Sports**: Wushu (20–present; 12–15), Karate (9–16, Black Belt at 13), Football (8–11, 16–18), Taekwondo (4–6)
