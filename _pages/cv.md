@@ -63,25 +63,18 @@ Research Interests
 Publications
 ======
 ### Under Review / Submitted
-1. **DeepRadio: A Human-Agent Workspace for Physical Radio Development** — Yuxin Sha*, ... **(2nd author)** | Submitted to CHI  
-   Human-agent collaborative workspace for SDR & physical-layer radio development.
-2. **NarrativeSteward: Coordinating Delegation, Guidance, and Verification in AI-Assisted Interactive Narrative Authoring** — ..., Yuxin Sha **(3rd author)** | Submitted to CHI  
-   Agent-aided interactive narrative authoring system with human guidance and execution verification.
-3. **RadioMaster: Multi-Agent System for Autonomous Radio Signal Generation** — ..., Yuxin Sha **(2nd author)** | Submitted to JCIN  
-   Multi-agent framework translating high-level intent to over-the-air radio emission, with knowledge grounding & closed-loop physical-layer validation. [arXiv:2606.01862](https://arxiv.org/abs/2606.01862)
-4. **Enabling Agile Ambient IoT Networking via a Parameterized Hybrid Radio** — ..., Yuxin Sha **(4th author)** | Submitted to TON  
-   Janus: Configurable active-passive hybrid radio platform for ambient batteryless IoT networking.
-5. **MetaB: Battery-free Metasurfaces with Ultra-low-power for Mobile Devices** — ..., Yuxin Sha **(3rd author)** | Submitted to TOM  
-   Ultra-low-power battery-free metasurface hardware for mobile-device scenario.
-6. **Beyond Domain-Specific Tuning: Native RF-Modality LLM for Electromagnetic Awareness** — ..., Yuxin Sha **(4th author)** | Submitted to MobiCom  
-   Native RF-modality large model for electromagnetic perception and wireless reasoning.
+1. **DeepRadio: A Human-Agent Workspace for Physical Radio Development** — Yuxin Sha*, ... **(2nd author)** | Submitted to CHI.
+2. **NarrativeSteward: Coordinating Delegation, Guidance, and Verification in AI-Assisted Interactive Narrative Authoring** — ..., Yuxin Sha **(3rd author)** | Submitted to CHI.
+3. **RadioMaster: Multi-Agent System for Autonomous Radio Signal Generation** — ..., Yuxin Sha **(2nd author)** | Submitted to JCIN. [arXiv:2606.01862](https://arxiv.org/abs/2606.01862)
+4. **Enabling Agile Ambient IoT Networking via a Parameterized Hybrid Radio** — ..., Yuxin Sha **(4th author)** | Submitted to TON.
+5. **MetaB: Battery-free Metasurfaces with Ultra-low-power for Mobile Devices** — ..., Yuxin Sha **(3rd author)** | Submitted to TOM.
+6. **Beyond Domain-Specific Tuning: Native RF-Modality LLM for Electromagnetic Awareness** — ..., Yuxin Sha **(4th author)** | Submitted to MobiCom.
+7. **Toward Beamform Charging Without Chicken-or-Egg Dilemma** — L. Zhong, T. Qiang, Y. Sha, Z. Yang, J. Lei, W. Li, F. Zhu, J. Sun, B. Wang, X. Tian **(3rd author)** | Submitted to TOM.
 
 ### Published
-1. **NW-EHA: A Misalignment-Tolerant Neck-Worn Electromagnetic Halbach Array Structure for Charging Implantable Devices** — Yuxin Sha, ... **(1st author)** | WPTCE 2026  
-   Wearable neck-mount Halbach-array coil for misalignment-robust implant-device wireless charging.
-2. **Toward Beamform Charging Without Chicken-or-Egg Dilemma** — ..., Yuxin Sha **(3rd author)** | TOM  
-   Beamforming wireless power transfer resolving the classic “chicken-egg” dependency dilemma.
-3. **Wearable Electromagnetic Halbach Array for Wirelessly Charging Implantable Biomedical Devices** — X. Luo, R. Gou, Y. Sha, D. Zhu, S. Yong and S. Beeby | WPTCE 2024  
+1. **NW-EHA: A Misalignment-Tolerant Neck-Worn Electromagnetic Halbach Array Structure for Charging Implantable Devices** — Y. Sha, Z. Ran, D. Zhu **(1st author)**  
+   Y. Sha, Z. Ran and D. Zhu, "NW-EHA: A Misalignment-Tolerant Neck-Worn Electromagnetic Halbach Array Structure for Charging Implantable Devices," 2026 IEEE Wireless Power Technology Conference and Expo (WPTCE), Halifax, Nova Scotia, Canada, 2026. (Published)
+2. **Wearable Electromagnetic Halbach Array for Wirelessly Charging Implantable Biomedical Devices** — X. Luo, R. Gou, Y. Sha, D. Zhu, S. Yong and S. Beeby  
    X. Luo, R. Gou, Y. Sha, D. Zhu, S. Yong and S. Beeby, "Wearable Electromagnetic Halbach Array for Wirelessly Charging Implantable Biomedical Devices," 2024 IEEE Wireless Power Technology Conference and Expo (WPTCE), Kyoto, Japan, 2024, pp. 734–738, doi: 10.1109/WPTCE59894.2024.10557437. (Published)
 
 荣誉与奖项 / Honors & Awards
