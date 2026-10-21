@@ -72,11 +72,11 @@ Publications
 
 ### Published
 1. **NW-EHA: A Misalignment-Tolerant Neck-Worn Electromagnetic Halbach Array Structure for Charging Implantable Devices** — Y. Sha, Z. Ran, D. Zhu **(1st author)**  
-   Y. Sha, Z. Ran and D. Zhu, "NW-EHA: A Misalignment-Tolerant Neck-Worn Electromagnetic Halbach Array Structure for Charging Implantable Devices," 2026 IEEE Wireless Power Technology Conference and Expo (WPTCE), Halifax, Nova Scotia, Canada, 2026. (Published)
+   Y. Sha, Z. Ran and D. Zhu, "NW-EHA: A Misalignment-Tolerant Neck-Worn Electromagnetic Halbach Array Structure for Charging Implantable Devices," 2026 IEEE Wireless Power Technology Conference and Expo (WPTCE), Halifax, Nova Scotia, Canada, 2026.
 2. **Wearable Electromagnetic Halbach Array for Wirelessly Charging Implantable Biomedical Devices** — X. Luo, R. Gou, Y. Sha, D. Zhu, S. Yong and S. Beeby  
-   X. Luo, R. Gou, Y. Sha, D. Zhu, S. Yong and S. Beeby, "Wearable Electromagnetic Halbach Array for Wirelessly Charging Implantable Biomedical Devices," 2024 IEEE Wireless Power Technology Conference and Expo (WPTCE), Kyoto, Japan, 2024, pp. 734–738, doi: 10.1109/WPTCE59894.2024.10557437. (Published)
+   X. Luo, R. Gou, Y. Sha, D. Zhu, S. Yong and S. Beeby, "Wearable Electromagnetic Halbach Array for Wirelessly Charging Implantable Biomedical Devices," 2024 IEEE Wireless Power Technology Conference and Expo (WPTCE), Kyoto, Japan, 2024, pp. 734–738, doi: 10.1109/WPTCE59894.2024.10557437.
 3. **Toward Beamform Charging Without Chicken-or-Egg Dilemma** — L. Zhong, T. Qiang, Y. Sha, Z. Yang, J. Lei, W. Li, F. Zhu, J. Sun, B. Wang, X. Tian **(3rd author)**  
-   L. Zhong, T. Qiang, Y. Sha, Z. Yang, J. Lei, W. Li, F. Zhu, J. Sun, B. Wang and X. Tian, "Toward Beamform Charging Without Chicken-or-Egg Dilemma," IEEE Transactions on Mobile Computing (TOM), 2026. (Published)
+   L. Zhong, T. Qiang, Y. Sha, Z. Yang, J. Lei, W. Li, F. Zhu, J. Sun, B. Wang and X. Tian, "Toward Beamform Charging Without Chicken-or-Egg Dilemma," IEEE Transactions on Mobile Computing (TOM), 2026.
 
 荣誉与奖项 / Honors & Awards
 ======
